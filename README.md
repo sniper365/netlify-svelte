@@ -1,7 +1,4 @@
-# Svelte Started
-Foxes, Random Phrases and Rick and Morty API.
-
-![](./preview.png)
+# Svelte/Netlify
 
 ---
 
